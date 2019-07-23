@@ -26,7 +26,7 @@ namespace CsharpStudy
             
         }
 
-        public static void Main()
+        public static void Main2()
         {
             Attribute.Message("In Main function.");
             function1();

@@ -25,7 +25,7 @@ namespace second_space{
 
 class TestClass
 {
-    static void Main2(string[] args)
+    static void Main3(string[] args)
     {
         first_space.namespace_c1 fc =new first_space.namespace_c1();
         second_space.namespace_c2 sc = new second_space.namespace_c2();

@@ -8,6 +8,7 @@
         <e p="Attribute.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="CsharpStudy.csproj" t="IncludeRecursive" />
+        <e p="DeBugInfo.cs" t="Include" />
         <e p="Interface.cs" t="Include" />
         <e p="namespace.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
@@ -18,6 +19,8 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="Reflection.cs" t="Include" />
+        <e p="Student.cs" t="Include" />
       </e>
       <e p="CsharpStudy.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
