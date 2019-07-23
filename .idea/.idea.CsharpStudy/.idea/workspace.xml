@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d867b36d-ef3d-4941-9246-ead10990410c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CsharpStudy/DeBugInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CsharpStudy/Reflection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CsharpStudy/Student.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CsharpStudy/IndexedNames.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CsharpStudy/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CsharpStudy/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CsharpStudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CsharpStudy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/Attribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/Attribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/Interface.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/Interface.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/bin/Debug/netcoreapp3.0/CsharpStudy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/bin/Debug/netcoreapp3.0/CsharpStudy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/bin/Debug/netcoreapp3.0/CsharpStudy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/bin/Debug/netcoreapp3.0/CsharpStudy.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/namespace.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/namespace.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/obj/Debug/netcoreapp3.0/CsharpStudy.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/obj/Debug/netcoreapp3.0/CsharpStudy.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/obj/Debug/netcoreapp3.0/CsharpStudy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/obj/Debug/netcoreapp3.0/CsharpStudy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/obj/Debug/netcoreapp3.0/CsharpStudy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/obj/Debug/netcoreapp3.0/CsharpStudy.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CsharpStudy/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/Student.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -153,20 +143,43 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CsharpStudy/Student.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+            <state relative-caret-position="38">
+              <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
               <folding>
-                <marker date="1563862292071" expanded="true" signature="36:1223" ph="{...}" />
-                <marker date="1563862292071" expanded="true" signature="63:744" ph="{...}" />
-                <marker date="1563862292071" expanded="true" signature="243:330" ph="{...}" />
-                <marker date="1563862292071" expanded="true" signature="386:473" ph="{...}" />
-                <marker date="1563862292071" expanded="true" signature="521:606" ph="{...}" />
-                <marker date="1563862292071" expanded="true" signature="649:738" ph="{...}" />
-                <marker date="1563862292071" expanded="true" signature="767:1215" ph="{...}" />
-                <marker date="1563862292071" expanded="true" signature="807:1209" ph="{...}" />
+                <marker date="1563862450022" expanded="true" signature="36:1224" ph="{...}" />
+                <marker date="1563862450022" expanded="true" signature="63:744" ph="{...}" />
+                <marker date="1563862450022" expanded="true" signature="243:330" ph="{...}" />
+                <marker date="1563862450022" expanded="true" signature="386:473" ph="{...}" />
+                <marker date="1563862450022" expanded="true" signature="521:606" ph="{...}" />
+                <marker date="1563862450022" expanded="true" signature="649:738" ph="{...}" />
+                <marker date="1563862450022" expanded="true" signature="767:1216" ph="{...}" />
+                <marker date="1563862450022" expanded="true" signature="808:1210" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CsharpStudy/IndexedNames.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+              <folding>
+                <marker date="1563863046977" expanded="true" signature="6:35" ph="..." />
+                <marker date="1563863046977" expanded="true" signature="58:1403" ph="{...}" />
+                <marker date="1563863046977" expanded="true" signature="90:1401" ph="{...}" />
+                <marker date="1563863046977" expanded="true" signature="218:319" ph="{...}" />
+                <marker date="1563863046977" expanded="true" signature="358:899" ph="{...}" />
+                <marker date="1563863046977" expanded="true" signature="384:692" ph="{...}" />
+                <marker date="1563863046977" expanded="true" signature="479:558" ph="{...}" />
+                <marker date="1563863046977" expanded="true" signature="579:645" ph="{...}" />
+                <marker date="1563863046977" expanded="true" signature="708:888" ph="{...}" />
+                <marker date="1563863046977" expanded="true" signature="775:856" ph="{...}" />
+                <marker date="1563863046977" expanded="true" signature="940:1395" ph="{...}" />
+                <marker date="1563863046977" expanded="true" signature="1280:1353" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -182,6 +195,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/CsharpStudy/Attribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CsharpStudy/IndexedNames.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CsharpStudy/Interface.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CsharpStudy/Reflection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CsharpStudy/DeBugInfo.cs" root0="FORCE_HIGHLIGHTING" />
@@ -199,12 +213,13 @@
         <option value="$PROJECT_DIR$/CsharpStudy/Reflection.cs" />
         <option value="$PROJECT_DIR$/CsharpStudy/DeBugInfo.cs" />
         <option value="$PROJECT_DIR$/CsharpStudy/Student.cs" />
+        <option value="$PROJECT_DIR$/CsharpStudy/IndexedNames.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="494" />
-    <option name="y" value="28" />
+    <option name="x" value="563" />
+    <option name="y" value="69" />
     <option name="width" value="1400" />
     <option name="height" value="1012" />
   </component>
@@ -311,7 +326,7 @@
       <option name="presentableId" value="Default" />
       <updated>1563787310216</updated>
       <workItem from="1563787323587" duration="205000" />
-      <workItem from="1563852732376" duration="5025000" />
+      <workItem from="1563852732376" duration="5780000" />
     </task>
     <task id="LOCAL-00001" summary="C#学习">
       <created>1563787546407</created>
@@ -369,11 +384,25 @@
       <option name="project" value="LOCAL" />
       <updated>1563854776313</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="C#学习">
+      <created>1563862394344</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1563862394344</updated>
+    </task>
+    <task id="LOCAL-00010" summary="C#学习">
+      <created>1563862418508</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1563862418508</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5025000" />
+    <option name="totallyTimeSpent" value="5780000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -385,7 +414,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="799" y="76" width="1400" height="1012" extended-state="0" />
+    <frame x="837" y="102" width="1400" height="1012" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25414783" />
@@ -553,17 +582,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CsharpStudy/Student.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+        <state relative-caret-position="38">
+          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
           <folding>
-            <marker date="1563862292071" expanded="true" signature="36:1223" ph="{...}" />
-            <marker date="1563862292071" expanded="true" signature="63:744" ph="{...}" />
-            <marker date="1563862292071" expanded="true" signature="243:330" ph="{...}" />
-            <marker date="1563862292071" expanded="true" signature="386:473" ph="{...}" />
-            <marker date="1563862292071" expanded="true" signature="521:606" ph="{...}" />
-            <marker date="1563862292071" expanded="true" signature="649:738" ph="{...}" />
-            <marker date="1563862292071" expanded="true" signature="767:1215" ph="{...}" />
-            <marker date="1563862292071" expanded="true" signature="807:1209" ph="{...}" />
+            <marker date="1563862450022" expanded="true" signature="36:1224" ph="{...}" />
+            <marker date="1563862450022" expanded="true" signature="63:744" ph="{...}" />
+            <marker date="1563862450022" expanded="true" signature="243:330" ph="{...}" />
+            <marker date="1563862450022" expanded="true" signature="386:473" ph="{...}" />
+            <marker date="1563862450022" expanded="true" signature="521:606" ph="{...}" />
+            <marker date="1563862450022" expanded="true" signature="649:738" ph="{...}" />
+            <marker date="1563862450022" expanded="true" signature="767:1216" ph="{...}" />
+            <marker date="1563862450022" expanded="true" signature="808:1210" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CsharpStudy/IndexedNames.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+          <folding>
+            <marker date="1563863046977" expanded="true" signature="6:35" ph="..." />
+            <marker date="1563863046977" expanded="true" signature="58:1403" ph="{...}" />
+            <marker date="1563863046977" expanded="true" signature="90:1401" ph="{...}" />
+            <marker date="1563863046977" expanded="true" signature="218:319" ph="{...}" />
+            <marker date="1563863046977" expanded="true" signature="358:899" ph="{...}" />
+            <marker date="1563863046977" expanded="true" signature="384:692" ph="{...}" />
+            <marker date="1563863046977" expanded="true" signature="479:558" ph="{...}" />
+            <marker date="1563863046977" expanded="true" signature="579:645" ph="{...}" />
+            <marker date="1563863046977" expanded="true" signature="708:888" ph="{...}" />
+            <marker date="1563863046977" expanded="true" signature="775:856" ph="{...}" />
+            <marker date="1563863046977" expanded="true" signature="940:1395" ph="{...}" />
+            <marker date="1563863046977" expanded="true" signature="1280:1353" ph="{...}" />
           </folding>
         </state>
       </provider>

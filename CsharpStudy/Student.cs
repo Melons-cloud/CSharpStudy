@@ -35,7 +35,7 @@ namespace CsharpStudy
 
     class ExampleDemo
     {
-        public static void Main()
+        public static void Main1()
         {
             //创建一个新的Student对象
             Student s = new Student();
