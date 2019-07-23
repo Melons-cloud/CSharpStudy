@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\CsharpStudy\\CsharpStudy\\CsharpStudy.csproj",
+    "projectUniqueName": "D:\\CSharpStudy\\CsharpStudy\\CsharpStudy.csproj",
     "projectName": "CsharpStudy",
-    "projectPath": "D:\\CsharpStudy\\CsharpStudy\\CsharpStudy.csproj",
-    "outputPath": "D:\\CsharpStudy\\CsharpStudy\\obj\\",
+    "projectPath": "D:\\CSharpStudy\\CsharpStudy\\CsharpStudy.csproj",
+    "outputPath": "D:\\CSharpStudy\\CsharpStudy\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

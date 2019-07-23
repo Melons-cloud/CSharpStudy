@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CsharpStudy\\CsharpStudy\\CsharpStudy.csproj",
+      "projectUniqueName": "D:\\CSharpStudy\\CsharpStudy\\CsharpStudy.csproj",
       "projectName": "CsharpStudy",
-      "projectPath": "D:\\CsharpStudy\\CsharpStudy\\CsharpStudy.csproj",
+      "projectPath": "D:\\CSharpStudy\\CsharpStudy\\CsharpStudy.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\CsharpStudy\\CsharpStudy\\obj\\",
+      "outputPath": "D:\\CSharpStudy\\CsharpStudy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
