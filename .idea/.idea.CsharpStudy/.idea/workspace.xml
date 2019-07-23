@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d867b36d-ef3d-4941-9246-ead10990410c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CsharpStudy/ThreadAbort.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CsharpStudy/EventTest.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CsharpStudy/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CsharpStudy/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CsharpStudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CsharpStudy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/ThreadManageMentProgram.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/ThreadManageMentProgram.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CsharpStudy/ThreadAbort.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/ThreadAbort.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,203 +29,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CsharpStudy/Interface.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-              <folding>
-                <marker date="1563860761468" expanded="true" signature="36:764" ph="{...}" />
-                <marker date="1563860761468" expanded="true" signature="69:119" ph="{...}" />
-                <marker date="1563860761468" expanded="true" signature="164:210" ph="{...}" />
-                <marker date="1563860761468" expanded="true" signature="255:762" ph="{...}" />
-                <marker date="1563860761468" expanded="true" signature="290:505" ph="{...}" />
-                <marker date="1563860761468" expanded="true" signature="550:631" ph="{...}" />
-                <marker date="1563860761468" expanded="true" signature="672:756" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CsharpStudy/namespace.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-              <folding>
-                <marker date="1563860761475" expanded="true" signature="36:183" ph="{...}" />
-                <marker date="1563860761475" expanded="true" signature="68:181" ph="{...}" />
-                <marker date="1563860761475" expanded="true" signature="101:174" ph="{...}" />
-                <marker date="1563860761475" expanded="true" signature="206:347" ph="{...}" />
-                <marker date="1563860761475" expanded="true" signature="231:344" ph="{...}" />
-                <marker date="1563860761475" expanded="true" signature="264:338" ph="{...}" />
-                <marker date="1563860761475" expanded="true" signature="364:638" ph="{...}" />
-                <marker date="1563860761475" expanded="true" signature="403:621" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CsharpStudy/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <marker date="1563860761487" expanded="true" signature="36:178" ph="{...}" />
-                <marker date="1563860761487" expanded="true" signature="56:176" ph="{...}" />
-                <marker date="1563860761487" expanded="true" signature="103:170" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CsharpStudy/Reflection.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="32" selection-end-column="16" />
-              <folding>
-                <marker date="1563861197530" expanded="true" signature="101:436" ph="{...}" />
-                <marker date="1563861197530" expanded="true" signature="194:284" ph="{...}" />
-                <marker date="1563861197530" expanded="true" signature="350:398" ph="{...}" />
-                <marker date="1563861197530" expanded="true" signature="500:509" ph="{...}" />
-                <marker date="1563861197530" expanded="true" signature="534:939" ph="{...}" />
-                <marker date="1563861197530" expanded="true" signature="553:931" ph="{...}" />
-                <marker date="1563861197530" expanded="true" signature="600:925" ph="{...}" />
-                <marker date="1563861197530" expanded="true" signature="797:882" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CsharpStudy/DeBugInfo.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="89" column="4" lean-forward="true" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
-              <folding>
-                <marker date="1563861424166" expanded="true" signature="6:38" ph="..." />
-                <marker date="1563861424166" expanded="true" signature="66:3400" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="102:289" ph="[...]" />
-                <marker date="1563861424166" expanded="true" signature="335:1117" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="513:616" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="640:717" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="661:709" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="747:828" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="768:820" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="859:941" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="880:933" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="969:1112" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="990:1040" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="1053:1104" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="1121:1203" ph="[...]" />
-                <marker date="1563861424166" expanded="true" signature="1207:1285" ph="[...]" />
-                <marker date="1563861424166" expanded="true" signature="1304:1904" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="1427:1484" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="1491:1577" ph="[...]" />
-                <marker date="1563861424166" expanded="true" signature="1607:1655" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="1731:1899" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="1957:3398" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="2001:3393" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="2221:2653" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="2312:2642" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="2735:3356" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="2811:3345" ph="{...}" />
-                <marker date="1563861424166" expanded="true" signature="2902:3331" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CsharpStudy/Student.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-              <folding>
-                <marker date="1563862450022" expanded="true" signature="36:1224" ph="{...}" />
-                <marker date="1563862450022" expanded="true" signature="63:744" ph="{...}" />
-                <marker date="1563862450022" expanded="true" signature="243:330" ph="{...}" />
-                <marker date="1563862450022" expanded="true" signature="386:473" ph="{...}" />
-                <marker date="1563862450022" expanded="true" signature="521:606" ph="{...}" />
-                <marker date="1563862450022" expanded="true" signature="649:738" ph="{...}" />
-                <marker date="1563862450022" expanded="true" signature="767:1216" ph="{...}" />
-                <marker date="1563862450022" expanded="true" signature="808:1210" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CsharpStudy/IndexedNames.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-              <folding>
-                <marker date="1563863300642" expanded="true" signature="6:35" ph="..." />
-                <marker date="1563863300642" expanded="true" signature="58:1404" ph="{...}" />
-                <marker date="1563863300642" expanded="true" signature="90:1402" ph="{...}" />
-                <marker date="1563863300642" expanded="true" signature="218:319" ph="{...}" />
-                <marker date="1563863300642" expanded="true" signature="358:899" ph="{...}" />
-                <marker date="1563863300642" expanded="true" signature="384:692" ph="{...}" />
-                <marker date="1563863300642" expanded="true" signature="479:558" ph="{...}" />
-                <marker date="1563863300642" expanded="true" signature="579:645" ph="{...}" />
-                <marker date="1563863300642" expanded="true" signature="708:888" ph="{...}" />
-                <marker date="1563863300642" expanded="true" signature="775:856" ph="{...}" />
-                <marker date="1563863300642" expanded="true" signature="941:1396" ph="{...}" />
-                <marker date="1563863300642" expanded="true" signature="1281:1354" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CsharpStudy/ThreadCreationProgram.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-              <folding>
-                <marker date="1563863466169" expanded="true" signature="6:37" ph="..." />
-                <marker date="1563863466169" expanded="true" signature="60:557" ph="{...}" />
-                <marker date="1563863466169" expanded="true" signature="101:555" ph="{...}" />
-                <marker date="1563863466169" expanded="true" signature="154:228" ph="{...}" />
-                <marker date="1563863466169" expanded="true" signature="270:549" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CsharpStudy/ThreadManageMentProgram.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-              <folding>
-                <marker date="1563864569812" expanded="true" signature="6:37" ph="..." />
-                <marker date="1563864569812" expanded="true" signature="60:793" ph="{...}" />
-                <marker date="1563864569812" expanded="true" signature="103:791" ph="{...}" />
-                <marker date="1563864569812" expanded="true" signature="156:463" ph="{...}" />
-                <marker date="1563864569812" expanded="true" signature="505:785" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CsharpStudy/EventTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="542">
+              <caret line="56" column="60" selection-start-line="56" selection-start-column="60" selection-end-line="56" selection-end-column="60" />
+              <folding>
+                <marker date="1563871233372" expanded="true" signature="36:1162" ph="{...}" />
+                <marker date="1563871233372" expanded="true" signature="76:815" ph="{...}" />
+                <marker date="1563871233372" expanded="true" signature="270:543" ph="{...}" />
+                <marker date="1563871233372" expanded="true" signature="315:380" ph="{...}" />
+                <marker date="1563871233372" expanded="true" signature="397:521" ph="{...}" />
+                <marker date="1563871233372" expanded="true" signature="571:639" ph="{...}" />
+                <marker date="1563871233372" expanded="true" signature="676:809" ph="{...}" />
+                <marker date="1563871233372" expanded="true" signature="712:799" ph="{...}" />
+                <marker date="1563871233372" expanded="true" signature="853:997" ph="{...}" />
+                <marker date="1563871233372" expanded="true" signature="888:991" ph="{...}" />
+                <marker date="1563871233372" expanded="true" signature="1033:1160" ph="{...}" />
+                <marker date="1563871233372" expanded="true" signature="1073:1154" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CsharpStudy/ThreadAbort.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="732">
-              <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+            <state relative-caret-position="380">
+              <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
               <folding>
-                <marker date="1563864569799" expanded="true" signature="6:37" ph="..." />
-                <marker date="1563864569799" expanded="true" signature="60:1228" ph="{...}" />
-                <marker date="1563864569799" expanded="true" signature="91:1226" ph="{...}" />
-                <marker date="1563864569799" expanded="true" signature="144:720" ph="{...}" />
-                <marker date="1563864569799" expanded="true" signature="170:565" ph="{...}" />
-                <marker date="1563864569799" expanded="true" signature="346:490" ph="{...}" />
-                <marker date="1563864569799" expanded="true" signature="608:710" ph="{...}" />
-                <marker date="1563864569799" expanded="true" signature="761:1220" ph="{...}" />
+                <marker date="1563871233367" expanded="false" signature="6:37" ph="..." />
+                <marker date="1563871233367" expanded="true" signature="60:1229" ph="{...}" />
+                <marker date="1563871233367" expanded="true" signature="91:1227" ph="{...}" />
+                <marker date="1563871233367" expanded="true" signature="144:720" ph="{...}" />
+                <marker date="1563871233367" expanded="true" signature="170:565" ph="{...}" />
+                <marker date="1563871233367" expanded="true" signature="346:490" ph="{...}" />
+                <marker date="1563871233367" expanded="true" signature="608:710" ph="{...}" />
+                <marker date="1563871233367" expanded="true" signature="762:1221" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -245,6 +85,7 @@
     <setting file="file://$PROJECT_DIR$/CsharpStudy/ThreadCreationProgram.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CsharpStudy/ThreadAbort.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CsharpStudy/ThreadManageMentProgram.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CsharpStudy/EventTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CsharpStudy/Interface.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CsharpStudy/Reflection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CsharpStudy/DeBugInfo.cs" root0="FORCE_HIGHLIGHTING" />
@@ -266,12 +107,13 @@
         <option value="$PROJECT_DIR$/CsharpStudy/ThreadCreationProgram.cs" />
         <option value="$PROJECT_DIR$/CsharpStudy/ThreadManageMentProgram.cs" />
         <option value="$PROJECT_DIR$/CsharpStudy/ThreadAbort.cs" />
+        <option value="$PROJECT_DIR$/CsharpStudy/EventTest.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="550" />
-    <option name="y" value="50" />
+    <option name="x" value="643" />
+    <option name="y" value="33" />
     <option name="width" value="1400" />
     <option name="height" value="1012" />
   </component>
@@ -283,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
@@ -301,7 +144,6 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -380,6 +222,7 @@
       <updated>1563787310216</updated>
       <workItem from="1563787323587" duration="205000" />
       <workItem from="1563852732376" duration="7301000" />
+      <workItem from="1563870576442" duration="654000" />
     </task>
     <task id="LOCAL-00001" summary="C#学习">
       <created>1563787546407</created>
@@ -476,7 +319,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7301000" />
+    <option name="totallyTimeSpent" value="7955000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -488,10 +331,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="834" y="85" width="1400" height="1012" extended-state="0" />
+    <frame x="772" y="84" width="1400" height="1012" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25414783" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25942686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -557,116 +400,127 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CsharpStudy/Interface.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="171">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
-            <marker date="1563860761468" expanded="true" signature="36:764" ph="{...}" />
-            <marker date="1563860761468" expanded="true" signature="69:119" ph="{...}" />
-            <marker date="1563860761468" expanded="true" signature="164:210" ph="{...}" />
-            <marker date="1563860761468" expanded="true" signature="255:762" ph="{...}" />
-            <marker date="1563860761468" expanded="true" signature="290:505" ph="{...}" />
-            <marker date="1563860761468" expanded="true" signature="550:631" ph="{...}" />
-            <marker date="1563860761468" expanded="true" signature="672:756" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="36:764" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="69:119" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="164:210" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="255:762" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="290:505" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="550:631" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="672:756" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CsharpStudy/namespace.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        <state relative-caret-position="399">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
           <folding>
-            <marker date="1563860761475" expanded="true" signature="36:183" ph="{...}" />
-            <marker date="1563860761475" expanded="true" signature="68:181" ph="{...}" />
-            <marker date="1563860761475" expanded="true" signature="101:174" ph="{...}" />
-            <marker date="1563860761475" expanded="true" signature="206:347" ph="{...}" />
-            <marker date="1563860761475" expanded="true" signature="231:344" ph="{...}" />
-            <marker date="1563860761475" expanded="true" signature="264:338" ph="{...}" />
-            <marker date="1563860761475" expanded="true" signature="364:638" ph="{...}" />
-            <marker date="1563860761475" expanded="true" signature="403:621" ph="{...}" />
+            <marker date="1563870541306" expanded="true" signature="36:183" ph="{...}" />
+            <marker date="1563870541306" expanded="true" signature="68:181" ph="{...}" />
+            <marker date="1563870541306" expanded="true" signature="101:174" ph="{...}" />
+            <marker date="1563870541306" expanded="true" signature="206:347" ph="{...}" />
+            <marker date="1563870541306" expanded="true" signature="231:344" ph="{...}" />
+            <marker date="1563870541306" expanded="true" signature="264:338" ph="{...}" />
+            <marker date="1563870541306" expanded="true" signature="364:638" ph="{...}" />
+            <marker date="1563870541306" expanded="true" signature="403:621" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CsharpStudy/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="190">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <marker date="1563860761487" expanded="true" signature="36:178" ph="{...}" />
-            <marker date="1563860761487" expanded="true" signature="56:176" ph="{...}" />
-            <marker date="1563860761487" expanded="true" signature="103:170" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="36:178" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="56:176" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="103:170" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CsharpStudy/Reflection.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="32" selection-end-column="16" />
+        <state relative-caret-position="513">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="32" selection-end-column="16" />
           <folding>
-            <marker date="1563861197530" expanded="true" signature="101:436" ph="{...}" />
-            <marker date="1563861197530" expanded="true" signature="194:284" ph="{...}" />
-            <marker date="1563861197530" expanded="true" signature="350:398" ph="{...}" />
-            <marker date="1563861197530" expanded="true" signature="500:509" ph="{...}" />
-            <marker date="1563861197530" expanded="true" signature="534:939" ph="{...}" />
-            <marker date="1563861197530" expanded="true" signature="553:931" ph="{...}" />
-            <marker date="1563861197530" expanded="true" signature="600:925" ph="{...}" />
-            <marker date="1563861197530" expanded="true" signature="797:882" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="101:436" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="194:284" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="350:398" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="500:509" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="534:939" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="553:931" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="600:925" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="797:882" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CsharpStudy/DeBugInfo.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="89" column="4" lean-forward="true" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
+        <state relative-caret-position="-209">
+          <caret line="89" column="4" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
           <folding>
-            <marker date="1563861424166" expanded="true" signature="6:38" ph="..." />
-            <marker date="1563861424166" expanded="true" signature="66:3400" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="102:289" ph="[...]" />
-            <marker date="1563861424166" expanded="true" signature="335:1117" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="513:616" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="640:717" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="661:709" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="747:828" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="768:820" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="859:941" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="880:933" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="969:1112" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="990:1040" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="1053:1104" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="1121:1203" ph="[...]" />
-            <marker date="1563861424166" expanded="true" signature="1207:1285" ph="[...]" />
-            <marker date="1563861424166" expanded="true" signature="1304:1904" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="1427:1484" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="1491:1577" ph="[...]" />
-            <marker date="1563861424166" expanded="true" signature="1607:1655" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="1731:1899" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="1957:3398" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="2001:3393" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="2221:2653" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="2312:2642" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="2735:3356" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="2811:3345" ph="{...}" />
-            <marker date="1563861424166" expanded="true" signature="2902:3331" ph="{...}" />
+            <marker date="1563870541298" expanded="false" signature="6:38" ph="..." />
+            <marker date="1563870541298" expanded="true" signature="66:3400" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="102:289" ph="[...]" />
+            <marker date="1563870541298" expanded="true" signature="335:1117" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="513:616" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="640:717" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="661:709" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="747:828" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="768:820" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="859:941" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="880:933" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="969:1112" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="990:1040" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="1053:1104" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="1121:1203" ph="[...]" />
+            <marker date="1563870541298" expanded="true" signature="1207:1285" ph="[...]" />
+            <marker date="1563870541298" expanded="true" signature="1304:1904" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="1427:1484" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="1491:1577" ph="[...]" />
+            <marker date="1563870541298" expanded="true" signature="1607:1655" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="1731:1899" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="1957:3398" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="2001:3393" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="2221:2653" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="2312:2642" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="2735:3356" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="2811:3345" ph="{...}" />
+            <marker date="1563870541298" expanded="true" signature="2902:3331" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CsharpStudy/Student.cs">
+    <entry file="file://$PROJECT_DIR$/CsharpStudy/ThreadCreationProgram.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        <state relative-caret-position="380">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
-            <marker date="1563862450022" expanded="true" signature="36:1224" ph="{...}" />
-            <marker date="1563862450022" expanded="true" signature="63:744" ph="{...}" />
-            <marker date="1563862450022" expanded="true" signature="243:330" ph="{...}" />
-            <marker date="1563862450022" expanded="true" signature="386:473" ph="{...}" />
-            <marker date="1563862450022" expanded="true" signature="521:606" ph="{...}" />
-            <marker date="1563862450022" expanded="true" signature="649:738" ph="{...}" />
-            <marker date="1563862450022" expanded="true" signature="767:1216" ph="{...}" />
-            <marker date="1563862450022" expanded="true" signature="808:1210" ph="{...}" />
+            <marker date="1563870541301" expanded="false" signature="6:37" ph="..." />
+            <marker date="1563870541301" expanded="true" signature="60:557" ph="{...}" />
+            <marker date="1563870541301" expanded="true" signature="101:555" ph="{...}" />
+            <marker date="1563870541301" expanded="true" signature="154:228" ph="{...}" />
+            <marker date="1563870541301" expanded="true" signature="270:549" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CsharpStudy/ThreadManageMentProgram.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <marker date="1563870541301" expanded="false" signature="6:37" ph="..." />
+            <marker date="1563870541301" expanded="true" signature="60:793" ph="{...}" />
+            <marker date="1563870541301" expanded="true" signature="103:791" ph="{...}" />
+            <marker date="1563870541301" expanded="true" signature="156:463" ph="{...}" />
+            <marker date="1563870541301" expanded="true" signature="505:785" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -674,65 +528,75 @@
     <entry file="file://$PROJECT_DIR$/CsharpStudy/IndexedNames.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
           <folding>
-            <marker date="1563863300642" expanded="true" signature="6:35" ph="..." />
-            <marker date="1563863300642" expanded="true" signature="58:1404" ph="{...}" />
-            <marker date="1563863300642" expanded="true" signature="90:1402" ph="{...}" />
-            <marker date="1563863300642" expanded="true" signature="218:319" ph="{...}" />
-            <marker date="1563863300642" expanded="true" signature="358:899" ph="{...}" />
-            <marker date="1563863300642" expanded="true" signature="384:692" ph="{...}" />
-            <marker date="1563863300642" expanded="true" signature="479:558" ph="{...}" />
-            <marker date="1563863300642" expanded="true" signature="579:645" ph="{...}" />
-            <marker date="1563863300642" expanded="true" signature="708:888" ph="{...}" />
-            <marker date="1563863300642" expanded="true" signature="775:856" ph="{...}" />
-            <marker date="1563863300642" expanded="true" signature="941:1396" ph="{...}" />
-            <marker date="1563863300642" expanded="true" signature="1281:1354" ph="{...}" />
+            <marker date="1563870541299" expanded="false" signature="6:35" ph="..." />
+            <marker date="1563870541299" expanded="true" signature="58:1404" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="90:1402" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="218:319" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="358:899" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="384:692" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="479:558" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="579:645" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="708:888" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="775:856" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="941:1396" ph="{...}" />
+            <marker date="1563870541299" expanded="true" signature="1281:1354" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CsharpStudy/ThreadManageMentProgram.cs">
+    <entry file="file://$PROJECT_DIR$/CsharpStudy/Student.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        <state relative-caret-position="86">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
           <folding>
-            <marker date="1563864569812" expanded="true" signature="6:37" ph="..." />
-            <marker date="1563864569812" expanded="true" signature="60:793" ph="{...}" />
-            <marker date="1563864569812" expanded="true" signature="103:791" ph="{...}" />
-            <marker date="1563864569812" expanded="true" signature="156:463" ph="{...}" />
-            <marker date="1563864569812" expanded="true" signature="505:785" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CsharpStudy/ThreadCreationProgram.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <marker date="1563863466169" expanded="true" signature="6:37" ph="..." />
-            <marker date="1563863466169" expanded="true" signature="60:557" ph="{...}" />
-            <marker date="1563863466169" expanded="true" signature="101:555" ph="{...}" />
-            <marker date="1563863466169" expanded="true" signature="154:228" ph="{...}" />
-            <marker date="1563863466169" expanded="true" signature="270:549" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="36:1224" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="63:744" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="243:330" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="386:473" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="521:606" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="649:738" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="767:1216" ph="{...}" />
+            <marker date="1563870541300" expanded="true" signature="808:1210" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CsharpStudy/ThreadAbort.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="732">
-          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        <state relative-caret-position="380">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
           <folding>
-            <marker date="1563864569799" expanded="true" signature="6:37" ph="..." />
-            <marker date="1563864569799" expanded="true" signature="60:1228" ph="{...}" />
-            <marker date="1563864569799" expanded="true" signature="91:1226" ph="{...}" />
-            <marker date="1563864569799" expanded="true" signature="144:720" ph="{...}" />
-            <marker date="1563864569799" expanded="true" signature="170:565" ph="{...}" />
-            <marker date="1563864569799" expanded="true" signature="346:490" ph="{...}" />
-            <marker date="1563864569799" expanded="true" signature="608:710" ph="{...}" />
-            <marker date="1563864569799" expanded="true" signature="761:1220" ph="{...}" />
+            <marker date="1563871233367" expanded="false" signature="6:37" ph="..." />
+            <marker date="1563871233367" expanded="true" signature="60:1229" ph="{...}" />
+            <marker date="1563871233367" expanded="true" signature="91:1227" ph="{...}" />
+            <marker date="1563871233367" expanded="true" signature="144:720" ph="{...}" />
+            <marker date="1563871233367" expanded="true" signature="170:565" ph="{...}" />
+            <marker date="1563871233367" expanded="true" signature="346:490" ph="{...}" />
+            <marker date="1563871233367" expanded="true" signature="608:710" ph="{...}" />
+            <marker date="1563871233367" expanded="true" signature="762:1221" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CsharpStudy/EventTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="56" column="60" selection-start-line="56" selection-start-column="60" selection-end-line="56" selection-end-column="60" />
+          <folding>
+            <marker date="1563871233372" expanded="true" signature="36:1162" ph="{...}" />
+            <marker date="1563871233372" expanded="true" signature="76:815" ph="{...}" />
+            <marker date="1563871233372" expanded="true" signature="270:543" ph="{...}" />
+            <marker date="1563871233372" expanded="true" signature="315:380" ph="{...}" />
+            <marker date="1563871233372" expanded="true" signature="397:521" ph="{...}" />
+            <marker date="1563871233372" expanded="true" signature="571:639" ph="{...}" />
+            <marker date="1563871233372" expanded="true" signature="676:809" ph="{...}" />
+            <marker date="1563871233372" expanded="true" signature="712:799" ph="{...}" />
+            <marker date="1563871233372" expanded="true" signature="853:997" ph="{...}" />
+            <marker date="1563871233372" expanded="true" signature="888:991" ph="{...}" />
+            <marker date="1563871233372" expanded="true" signature="1033:1160" ph="{...}" />
+            <marker date="1563871233372" expanded="true" signature="1073:1154" ph="{...}" />
           </folding>
         </state>
       </provider>

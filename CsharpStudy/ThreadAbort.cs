@@ -26,7 +26,7 @@ namespace CsharpStudy
             }
         }
 
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             ThreadStart childref = new ThreadStart(CallToChildThread);
             Console.WriteLine("In Main : Creating the Child thread");
