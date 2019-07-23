@@ -8,6 +8,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="CsharpStudy.csproj" t="IncludeRecursive" />
         <e p="Interface.cs" t="Include" />
+        <e p="namespace.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -15,6 +16,7 @@
             </e>
           </e>
         </e>
+        <e p="Program.cs" t="Include" />
       </e>
       <e p="CsharpStudy.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

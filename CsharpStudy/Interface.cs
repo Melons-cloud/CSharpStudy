@@ -13,7 +13,7 @@ namespace CsharpStudy
     }
      class InterfaceImplementer:IMyInterface
     {
-         static void Main()
+         static void Main2()
         {
             InterfaceImplementer implementer = new InterfaceImplementer();
             implementer.MethodToImplement();
