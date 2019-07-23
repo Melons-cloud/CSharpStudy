@@ -44,7 +44,7 @@ namespace CsharpStudy
 
         }
 
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             IndexedNames names=new IndexedNames();
             names[0] = "Zara";

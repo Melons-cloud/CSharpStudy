@@ -22,6 +22,8 @@
         <e p="Program.cs" t="Include" />
         <e p="Reflection.cs" t="Include" />
         <e p="Student.cs" t="Include" />
+        <e p="ThreadCreationProgram.cs" t="Include" />
+        <e p="ThreadManageMentProgram.cs" t="Include" />
       </e>
       <e p="CsharpStudy.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
