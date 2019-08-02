@@ -25,7 +25,7 @@
         </e>
         <e p="Program.cs" t="Include" />
         <e p="Reflection.cs" t="Include" />
-        <e p="split.cs" t="Include" />
+        <e p="splitstr.cs" t="Include" />
         <e p="StringFormat.cs" t="Include" />
         <e p="StringIndex.cs" t="Include" />
         <e p="Student.cs" t="Include" />
