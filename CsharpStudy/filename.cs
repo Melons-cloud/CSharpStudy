@@ -4,7 +4,7 @@ namespace CsharpStudy
 {
     public class filename
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             string strfile = "Program.cs";
             Console.WriteLine("文件完整名称: "+strfile);
