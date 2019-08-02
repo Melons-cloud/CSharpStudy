@@ -8,6 +8,7 @@
         <e p="Attribute.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="CsharpStudy.csproj" t="IncludeRecursive" />
+        <e p="DateTime.cs" t="Include" />
         <e p="DeBugInfo.cs" t="Include" />
         <e p="EventTest.cs" t="Include" />
         <e p="IndexedNames.cs" t="Include" />

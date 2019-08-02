@@ -4,7 +4,7 @@ namespace CsharpStudy
 {
     public class StringFormat
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             
             //输出金额
