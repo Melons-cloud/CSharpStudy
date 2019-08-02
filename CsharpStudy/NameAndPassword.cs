@@ -4,7 +4,7 @@ namespace CsharpStudy
 {
     public class NameAndPassword
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.Write("请输入登录用户名: ");
             //读取输入的内容，赋给name字符串

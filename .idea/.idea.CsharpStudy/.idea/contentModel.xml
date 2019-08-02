@@ -23,6 +23,7 @@
         </e>
         <e p="Program.cs" t="Include" />
         <e p="Reflection.cs" t="Include" />
+        <e p="StringFormat.cs" t="Include" />
         <e p="StringIndex.cs" t="Include" />
         <e p="Student.cs" t="Include" />
         <e p="ThreadAbort.cs" t="Include" />
