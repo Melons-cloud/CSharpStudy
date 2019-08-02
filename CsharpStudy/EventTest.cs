@@ -52,7 +52,7 @@ namespace CsharpStudy
     //触发
     public class MainClass
     {
-        public static void Main()
+        public static void Main1()
         {
             EventTest eventTest = new EventTest();  //实例化对象，第一次没有触发事件
             subscribEvent subscribEvent =new subscribEvent();  //实例化对象

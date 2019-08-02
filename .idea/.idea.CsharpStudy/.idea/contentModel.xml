@@ -12,6 +12,7 @@
         <e p="EventTest.cs" t="Include" />
         <e p="IndexedNames.cs" t="Include" />
         <e p="Interface.cs" t="Include" />
+        <e p="NameAndPassword.cs" t="Include" />
         <e p="namespace.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -22,6 +23,7 @@
         </e>
         <e p="Program.cs" t="Include" />
         <e p="Reflection.cs" t="Include" />
+        <e p="StringIndex.cs" t="Include" />
         <e p="Student.cs" t="Include" />
         <e p="ThreadAbort.cs" t="Include" />
         <e p="ThreadCreationProgram.cs" t="Include" />
