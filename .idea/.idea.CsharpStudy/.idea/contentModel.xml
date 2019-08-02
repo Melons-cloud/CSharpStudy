@@ -11,6 +11,7 @@
         <e p="DateTime.cs" t="Include" />
         <e p="DeBugInfo.cs" t="Include" />
         <e p="EventTest.cs" t="Include" />
+        <e p="filename.cs" t="Include" />
         <e p="IndexedNames.cs" t="Include" />
         <e p="Interface.cs" t="Include" />
         <e p="NameAndPassword.cs" t="Include" />

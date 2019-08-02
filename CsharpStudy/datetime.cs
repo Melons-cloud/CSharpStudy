@@ -4,7 +4,7 @@ namespace CsharpStudy
 {
     public class datetime
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             DateTime strDateTime = DateTime.Now;//获取当前日期时间
             //输出短日期格式

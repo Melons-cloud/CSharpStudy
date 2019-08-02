@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d867b36d-ef3d-4941-9246-ead10990410c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CsharpStudy/datetime.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CsharpStudy/filename.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CsharpStudy/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CsharpStudy/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CsharpStudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CsharpStudy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/StringFormat.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/StringFormat.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/bin/Debug/netcoreapp3.0/CsharpStudy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/bin/Debug/netcoreapp3.0/CsharpStudy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/bin/Debug/netcoreapp3.0/CsharpStudy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/bin/Debug/netcoreapp3.0/CsharpStudy.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/obj/Debug/netcoreapp3.0/CsharpStudy.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/obj/Debug/netcoreapp3.0/CsharpStudy.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/obj/Debug/netcoreapp3.0/CsharpStudy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/obj/Debug/netcoreapp3.0/CsharpStudy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CsharpStudy/obj/Debug/netcoreapp3.0/CsharpStudy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/obj/Debug/netcoreapp3.0/CsharpStudy.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CsharpStudy/datetime.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CsharpStudy/datetime.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,15 +110,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CsharpStudy/datetime.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            <state relative-caret-position="19">
+              <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
               <folding>
-                <marker date="1564715675760" expanded="true" signature="36:1185" ph="{...}" />
-                <marker date="1564715675760" expanded="true" signature="64:1183" ph="{...}" />
-                <marker date="1564715675760" expanded="true" signature="110:1177" ph="{...}" />
+                <marker date="1564716207487" expanded="true" signature="36:1186" ph="{...}" />
+                <marker date="1564716207487" expanded="true" signature="64:1184" ph="{...}" />
+                <marker date="1564716207487" expanded="true" signature="111:1178" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CsharpStudy/filename.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <marker date="1564716207500" expanded="true" signature="36:543" ph="{...}" />
+                <marker date="1564716207500" expanded="true" signature="64:541" ph="{...}" />
+                <marker date="1564716207500" expanded="true" signature="110:535" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -219,20 +228,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CsharpStudy/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <marker date="1564710992659" expanded="true" signature="36:178" ph="{...}" />
-                <marker date="1564710992659" expanded="true" signature="56:176" ph="{...}" />
-                <marker date="1564710992659" expanded="true" signature="103:170" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -257,6 +252,7 @@
     <setting file="file://$PROJECT_DIR$/CsharpStudy/Reflection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CsharpStudy/DeBugInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CsharpStudy/Student.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CsharpStudy/filename.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CsharpStudy/StringFormat.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -280,11 +276,13 @@
         <option value="$PROJECT_DIR$/CsharpStudy/StringFormat.cs" />
         <option value="$PROJECT_DIR$/CsharpStudy/DateTime.cs" />
         <option value="$PROJECT_DIR$/CsharpStudy/datetime.cs" />
+        <option value="$PROJECT_DIR$/CsharpStudy/filename.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="266" />
+    <option name="x" value="297" />
+    <option name="y" value="-1" />
     <option name="width" value="1400" />
     <option name="height" value="1012" />
   </component>
@@ -396,7 +394,7 @@
       <workItem from="1563852732376" duration="7301000" />
       <workItem from="1563870576442" duration="654000" />
       <workItem from="1564711028969" duration="2965000" />
-      <workItem from="1564714050293" duration="1625000" />
+      <workItem from="1564714050293" duration="2156000" />
     </task>
     <task id="LOCAL-00001" summary="C#学习">
       <created>1563787546407</created>
@@ -517,11 +515,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564714091620</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="C#学习">
+      <created>1564715745269</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1564715745269</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12545000" />
+    <option name="totallyTimeSpent" value="13076000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -540,7 +545,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924585" weight="0.32900944" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924585" visible="true" weight="0.32900944" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3938679" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -553,7 +558,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5007542" side_tool="true" weight="0.32900944" />
-      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.49924585" visible="true" weight="0.3278302" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.49924585" weight="0.3278302" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -849,12 +854,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CsharpStudy/datetime.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        <state relative-caret-position="19">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
           <folding>
-            <marker date="1564715675760" expanded="true" signature="36:1185" ph="{...}" />
-            <marker date="1564715675760" expanded="true" signature="64:1183" ph="{...}" />
-            <marker date="1564715675760" expanded="true" signature="110:1177" ph="{...}" />
+            <marker date="1564716207487" expanded="true" signature="36:1186" ph="{...}" />
+            <marker date="1564716207487" expanded="true" signature="64:1184" ph="{...}" />
+            <marker date="1564716207487" expanded="true" signature="111:1178" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CsharpStudy/filename.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <marker date="1564716207500" expanded="true" signature="36:543" ph="{...}" />
+            <marker date="1564716207500" expanded="true" signature="64:541" ph="{...}" />
+            <marker date="1564716207500" expanded="true" signature="110:535" ph="{...}" />
           </folding>
         </state>
       </provider>
