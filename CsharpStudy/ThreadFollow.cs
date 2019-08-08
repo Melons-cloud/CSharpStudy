@@ -23,7 +23,7 @@ namespace CsharpStudy
 
         }
 
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             ThreadFollow p = new ThreadFollow(); //创建对象，以便调用对象方法
             //分别实例化4个线程对象
