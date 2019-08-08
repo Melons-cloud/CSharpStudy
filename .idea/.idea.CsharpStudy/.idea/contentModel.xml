@@ -31,6 +31,7 @@
         <e p="Student.cs" t="Include" />
         <e p="ThreadAbort.cs" t="Include" />
         <e p="ThreadCreationProgram.cs" t="Include" />
+        <e p="ThreadFollow.cs" t="Include" />
         <e p="ThreadManageMentProgram.cs" t="Include" />
       </e>
       <e p="CsharpStudy.sln" t="IncludeFlat" />
